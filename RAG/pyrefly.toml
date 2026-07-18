@@ -1,0 +1,4 @@
+type-checking-mode = "off"
+disable-type-errors-in-ide = true
+[typing]
+ignore-missing-imports = true
